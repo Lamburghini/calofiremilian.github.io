@@ -1,6 +1,8 @@
 # [Numele Tău]
 
-![Total-Station_Image](/assets/img/ts.png)
+![Total_Station_Image](/assets/img/ts.png)
+
+[Afla mai multe aici](about.md)
 
 ## Student la Facultatea de Geodezie | Dezvoltator Web Amator
 
